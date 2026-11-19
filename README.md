@@ -114,7 +114,7 @@ I have two GitHub accounts, and **all the work on both of them is mine**.
 | **[MobiStock](https://mobistock-nine.vercel.app)** | Web-based inventory management system for mobile phone and accessories businesses: manage products, track stock levels and sales, and reduce errors from manual record-keeping. | React, TypeScript, Supabase, PostgreSQL |
 | **[GGM (Google General Market)](http://ggm-platform.vercel.app)** | Web-based marketplace for managing products, customers, and orders within one organization, with role-based access for Super Admins, Staff Admins, and Customers. | React, JavaScript, Supabase, PostgreSQL, HTML, CSS |
 | **GameZone Management System** | Multi-role SaaS for gaming centers: session billing with countdown timers, payments, owner reports, subscriptions, PWA and desktop installer. Prices in Ethiopian Birr. | React, Supabase, Vercel, Electron |
-| **Dilla University Incubation Center System** | Student registration and approval, room/seat management, ID cards with QR codes, project status tracking, event announcements, and a public website. | React, Supabase, Telegram Bot |
+| **[Dilla University Incubation Center System)](https://dilla-incubation.vercel.app)** | Student registration and approval, room/seat management, ID cards with QR codes, project status tracking, event announcements, and a public website. | React, Supabase, Telegram Bot |
 | **Gym Workout Tracker** | Native Android app with a 5-day split, rest timer, workout history, and progress tracking. | Kotlin, Android Studio |
 
 <details>
