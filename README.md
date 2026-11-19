@@ -59,6 +59,15 @@ public class Developer {
 }
 ```
 
+## 🔗 My GitHub Accounts
+
+I have two GitHub accounts, and **all the work on both of them is mine**.
+
+| Account | Profile |
+|---|---|
+| Main account | [![NATIOPIA10](https://img.shields.io/badge/GitHub-NATIOPIA10-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA10) |
+| Second account | [![NATIOPIA](https://img.shields.io/badge/GitHub-NATIOPIA-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA) |
+
 ## ⚡ Tech Stack & Tools
 
 ### Programming Languages
@@ -105,7 +114,7 @@ public class Developer {
 | **[MobiStock](https://mobistock-nine.vercel.app)** | Web-based inventory management system for mobile phone and accessories businesses: manage products, track stock levels and sales, and reduce errors from manual record-keeping. | React, TypeScript, Supabase, PostgreSQL |
 | **[GGM (Google General Market)](http://ggm-platform.vercel.app)** | Web-based marketplace for managing products, customers, and orders within one organization, with role-based access for Super Admins, Staff Admins, and Customers. | React, JavaScript, Supabase, PostgreSQL, HTML, CSS |
 | **GameZone Management System** | Multi-role SaaS for gaming centers: session billing with countdown timers, payments, owner reports, subscriptions, PWA and desktop installer. Prices in Ethiopian Birr. | React, Supabase, Vercel, Electron |
-| **[Dilla University Incubation Center System](https://dilla-incubation.vercel.app)** | Student registration and approval, room/seat management, ID cards with QR codes, project status tracking, event announcements, and a public website. | React, Supabase, Telegram Bot |
+| **Dilla University Incubation Center System** | Student registration and approval, room/seat management, ID cards with QR codes, project status tracking, event announcements, and a public website. | React, Supabase, Telegram Bot |
 | **Gym Workout Tracker** | Native Android app with a 5-day split, rest timer, workout history, and progress tracking. | Kotlin, Android Studio |
 
 <details>
@@ -117,7 +126,7 @@ public class Developer {
 |---|---|---|
 | Scientific Calculator | Desktop scientific calculator with advanced mathematical functions. | Java, JavaFX |
 | Lost & Found Management System | Register, search, and manage lost and found items. | Java, JavaFX, JDBC, MySQL |
-| [Student Learning Support System](https://learning-platform-web-4oah.onrender.com)] | Self-assessment and learning progress tracking. | PHP, MySQL, HTML, CSS, JavaScript |
+| Student Learning Support System | Self-assessment and learning progress tracking. | PHP, MySQL, HTML, CSS, JavaScript |
 | Bingo Game Platform | Web-based multiplayer bingo management and gameplay system. | PHP, MySQL, JavaScript |
 
 </details>
@@ -126,11 +135,22 @@ public class Developer {
 
 <div align="center">
 
+**Main account: [NATIOPIA10](https://github.com/NATIOPIA10)**
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=NATIOPIA10&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATIOPIA10&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" />
 
 <img src="https://streak-stats.demolab.com?user=NATIOPIA10&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="70%" />
+
+<br>
+
+**Second account: [NATIOPIA](https://github.com/NATIOPIA)**
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NATIOPIA&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATIOPIA&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" />
+
 
 </div>
 
@@ -159,6 +179,7 @@ I'm always interested in connecting with developers, collaborating on projects, 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA10)
+[![GitHub](https://img.shields.io/badge/GitHub-Second%20Account-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA)
 
 **"First, solve the problem. Then, write the code."**
 
