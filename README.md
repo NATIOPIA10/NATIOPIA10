@@ -10,8 +10,8 @@
 
 *Building ideas. Writing code. Solving real-world problems.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-NATIOPIA-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA)
-[![Profile Views](https://komarev.com/ghpvc/?username=NATIOPIA&style=for-the-badge&color=00ff88)](https://github.com/NATIOPIA)
+[![GitHub](https://img.shields.io/badge/GitHub-NATIOPIA10-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA10)
+[![Profile Views](https://komarev.com/ghpvc/?username=NATIOPIA10&style=for-the-badge&color=00ff88)](https://github.com/NATIOPIA10)
 
 </div>
 
@@ -39,7 +39,7 @@ I enjoy transforming ideas into practical applications, exploring new technologi
 public class Developer {
 
     String name = "Natnael Tsedeke";
-    String username = "NATIOPIA";
+    String username = "NATIOPIA10";
     String role = "Aspiring Software Engineer";
     String university = "Dilla University";
 
@@ -106,11 +106,11 @@ Here are some of the projects I'm developing and exploring.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NATIOPIA&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NATIOPIA10&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATIOPIA&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATIOPIA10&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" />
 
-<img src="https://streak-stats.demolab.com?user=NATIOPIA&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="70%" />
+<img src="https://streak-stats.demolab.com?user=NATIOPIA10&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="70%" />
 
 </div>
 
@@ -118,7 +118,7 @@ Here are some of the projects I'm developing and exploring.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NATIOPIA/NATIOPIA/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/NATIOPIA10/NATIOPIA10/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -137,7 +137,7 @@ I'm always interested in connecting with developers, collaborating on projects, 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA10)
 
 **"First, solve the problem. Then, write the code."**
 
