@@ -12,6 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-NATIOPIA10-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA10)
 [![Profile Views](https://komarev.com/ghpvc/?username=NATIOPIA10&style=for-the-badge&color=00ff88)](https://github.com/NATIOPIA10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-pearl-three-9o0hje5qsq.vercel.app/)
 
 </div>
 
@@ -101,7 +102,6 @@ I have two GitHub accounts, and **all the work on both of them is mine**.
 | **[GGM (Google General Market)](http://ggm-platform.vercel.app)** | Web-based marketplace for managing products, customers, and orders within one organization, with role-based access for Super Admins, Staff Admins, and Customers. | React, JavaScript, Supabase, PostgreSQL, HTML, CSS |
 | **GameZone Management System** | Multi-role SaaS for gaming centers: session billing with countdown timers, payments, owner reports, subscriptions, PWA and desktop installer. Prices in Ethiopian Birr. | React, Supabase, Vercel, Electron |
 | **[Dilla University Incubation Center System)](https://dilla-incubation.vercel.app)** | Student registration and approval, room/seat management, ID cards with QR codes, project status tracking, event announcements, and a public website. | React, Supabase, Telegram Bot |
-| **Gym Workout Tracker** | Native Android app with a 5-day split, rest timer, workout history, and progress tracking. | Kotlin, Android Studio |
 
 <details>
 <summary><b>📁 Earlier projects</b></summary>
@@ -164,6 +164,7 @@ I'm always interested in connecting with developers, collaborating on projects, 
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-pearl-three-9o0hje5qsq.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA10)
 [![GitHub](https://img.shields.io/badge/GitHub-Second%20Account-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA)
 
