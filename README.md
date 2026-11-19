@@ -35,30 +35,11 @@ I build practical software for real businesses and institutions, with a focus on
 - 🔍 Interested in software architecture, databases, and problem-solving
 - 🎯 Goal: Become a skilled software engineer who builds meaningful technology
 
-```java
-public class Developer {
-
-    String name = "Natnael Tsedeke";
-    String username = "NATIOPIA10";
-    String role = "Full-Stack Developer";
-    String university = "Dilla University";
-    String location = "Ethiopia";
-
-    String[] focus = {
-        "Full-Stack Web Development",
-        "Inventory & POS Systems",
-        "SaaS Platforms",
-        "Database Design",
-        "Cybersecurity",
-        "Machine Learning"
-    };
-
-    public void motto() {
-        System.out.println("Think. Code. Build. Improve.");
-    }
-}
-```
-
+Name	Natnael Tsedeke
+Role	Full-Stack Developer
+University	Dilla University
+Location	Ethiopia
+Focus	Full-stack web, inventory & POS systems, SaaS platforms, database design
 ## 🔗 My GitHub Accounts
 
 I have two GitHub accounts, and **all the work on both of them is mine**.
