@@ -35,11 +35,16 @@ I build practical software for real businesses and institutions, with a focus on
 - 🔍 Interested in software architecture, databases, and problem-solving
 - 🎯 Goal: Become a skilled software engineer who builds meaningful technology
 
-Name	Natnael Tsedeke
-Role	Full-Stack Developer
-University	Dilla University
-Location	Ethiopia
-Focus	Full-stack web, inventory & POS systems, SaaS platforms, database design
+| | |
+|---|---|
+| **Name** | Natnael Tsedeke |
+| **Username** | NATIOPIA10 |
+| **Role** | Full-Stack Developer |
+| **University** | Dilla University |
+| **Location** | Ethiopia |
+| **Focus** | Full-stack web development, inventory & POS systems, SaaS platforms, database design, cybersecurity, machine learning |
+| **Motto** | *Think. Code. Build. Improve.* |
+
 ## 🔗 My GitHub Accounts
 
 I have two GitHub accounts, and **all the work on both of them is mine**.
