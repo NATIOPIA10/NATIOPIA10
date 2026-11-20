@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-NATIOPIA10-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA10)
 [![Profile Views](https://komarev.com/ghpvc/?username=NATIOPIA10&style=for-the-badge&color=00ff88)](https://github.com/NATIOPIA10)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-pearl-three-9o0hje5qsq.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://natnael-tsedeke.vercel.app/)
 
 </div>
 
@@ -101,7 +101,7 @@ I have two GitHub accounts, and **all the work on both of them is mine**.
 | **[MobiStock](https://mobistock-nine.vercel.app)** | Web-based inventory management system for mobile phone and accessories businesses: manage products, track stock levels and sales, and reduce errors from manual record-keeping. | React, TypeScript, Supabase, PostgreSQL |
 | **[GGM (Google General Market)](http://ggm-platform.vercel.app)** | Web-based marketplace for managing products, customers, and orders within one organization, with role-based access for Super Admins, Staff Admins, and Customers. | React, JavaScript, Supabase, PostgreSQL, HTML, CSS |
 | **GameZone Management System** | Multi-role SaaS for gaming centers: session billing with countdown timers, payments, owner reports, subscriptions, PWA and desktop installer. Prices in Ethiopian Birr. | React, Supabase, Vercel, Electron |
-| **[Dilla University Incubation Center System)](https://dilla-incubation.vercel.app)** | Student registration and approval, room/seat management, ID cards with QR codes, project status tracking, event announcements, and a public website. | React, Supabase, Telegram Bot |
+| **[Dilla University Incubation Center System](https://dilla-incubation.vercel.app)** | Student registration and approval, room/seat management, ID cards with QR codes, project status tracking, event announcements, and a public website. | React, Supabase, Telegram Bot |
 
 <details>
 <summary><b>📁 Earlier projects</b></summary>
@@ -112,7 +112,7 @@ I have two GitHub accounts, and **all the work on both of them is mine**.
 |---|---|---|
 | Scientific Calculator | Desktop scientific calculator with advanced mathematical functions. | Java, JavaFX |
 | Lost & Found Management System | Register, search, and manage lost and found items. | Java, JavaFX, JDBC, MySQL |
-| [(Student Learning Support System)](https://learning-platform-web-4oah.onrender.com) | Self-assessment and learning progress tracking. | PHP, MySQL, HTML, CSS, JavaScript |
+| [Student Learning Support System](https://learning-platform-web-4oah.onrender.com) | Self-assessment and learning progress tracking. | PHP, MySQL, HTML, CSS, JavaScript |
 | Bingo Game Platform | Web-based multiplayer bingo management and gameplay system. | PHP, MySQL, JavaScript |
 
 </details>
@@ -164,7 +164,7 @@ I'm always interested in connecting with developers, collaborating on projects, 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-pearl-three-9o0hje5qsq.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://natnael-tsedeke.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA10)
 [![GitHub](https://img.shields.io/badge/GitHub-Second%20Account-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA)
 
