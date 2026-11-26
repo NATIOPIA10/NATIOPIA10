@@ -102,6 +102,8 @@ I have two GitHub accounts, and **all the work on both of them is mine**.
 | **[GGM (Google General Market)](http://ggm-platform.vercel.app)** | Web-based marketplace for managing products, customers, and orders within one organization, with role-based access for Super Admins, Staff Admins, and Customers. | React, JavaScript, Supabase, PostgreSQL, HTML, CSS |
 | **GameZone Management System** | Multi-role SaaS for gaming centers: session billing with countdown timers, payments, owner reports, subscriptions, PWA and desktop installer. Prices in Ethiopian Birr. | React, Supabase, Vercel, Electron |
 | **[Dilla University Incubation Center System](https://dilla-incubation.vercel.app)** | Student registration and approval, room/seat management, ID cards with QR codes, project status tracking, event announcements, and a public website. | React, Supabase, Telegram Bot |
+| **[Telegram Movie & Series Bot](https://github.com/NATIOPIA10/movie-bot)** | Telegram bot where users search a title, browse paged poster results, pay by Telebirr or bank transfer, and send a payment screenshot. Only the admin can approve orders. Series are priced per episode range, and each language version is a separate title. | Telegram Bot API, Supabase, PostgreSQL, TypeScript |
+| **[GradeCalc](https://github.com/NATIOPIA10/GradeCalc)** | Android app for Ethiopian university students. Enter a mark from 0 to 100 and it works out the letter grade, semester GPA, and CGPA. Everything is stored on the device. | Kotlin, Android |    
 
 <details>
 <summary><b>📁 Earlier projects</b></summary>
