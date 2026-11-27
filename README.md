@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-NATIOPIA10-181717?style=for-the-badge&logo=github)](https://github.com/NATIOPIA10)
 [![Profile Views](https://komarev.com/ghpvc/?username=NATIOPIA10&style=for-the-badge&color=00ff88)](https://github.com/NATIOPIA10)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://natnael-tsedeke.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://natnael-portfolio.ai.studio)
 
 </div>
 
